@@ -1,7 +1,11 @@
 h1, h2, p{
-	color:pink;
+	color:deeppink;
 	font-family: "Noteworthy", sans-serif;
 
+}
+
+body {
+  background-color: white
 }
 
 img.resize{
@@ -9,22 +13,9 @@ img.resize{
 	max-height: 25%;
 }
 
-#fruit{
-	color:coral;
+#food{
+	color:deeppink;
 	font-family: "Noteworthy", sans-serif;
 }
 
-#dessert{
-	color:brown;
-	font-family: "Noteworthy", sans-serif;
-}
 
-#meal{
-	color:red;
-	font-family: "Noteworthy", sans-serif;
-}
-
-#veggie{
-	color:orange;
-	font-family: "Noteworthy" sans-serif;
-}
